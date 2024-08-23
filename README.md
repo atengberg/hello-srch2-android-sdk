@@ -1,7 +1,7 @@
 Note this was some of the original source code I wrote for the first career as a software developer I had, so many years earlier. 
 There was even a lot as the work I got do for SRCH2 go me involved in all aspects of Android as far as its SDK; I wish I had kept a hard copy of all that somewhere else, as I can still recall the demo tutorial walkthrough I made as well the delta metadatabase index for maintaining the underlying SRCH2 accurate data set if any of the device's data changed (say, contacts being updated); and there was the British slang debug screen (obviousily never included it for production, but an entire "Oops there was unrecoverable error, please provide any feedback while things get restarted" screen done in the fluency of Cockney slang was many an occasion to smile for even the most serious of the coworkers and employers). Mostly it is an irreplacable way to see how far one's come by investigating how they once thought and coded. 
 
-In any case...
+In any case... now if I can only figure out how to get a copy of all the work I did for Surfline. 
 
 ###Hello-SRCH2-Android-SDK
 
